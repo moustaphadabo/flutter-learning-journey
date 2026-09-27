@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(ChallengeApp());
-}
-
 class ChallengeApp extends StatelessWidget {
   const ChallengeApp({super.key});
 
