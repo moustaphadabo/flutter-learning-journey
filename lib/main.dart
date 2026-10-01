@@ -2,10 +2,12 @@ import 'package:flutter/material.dart';
 
 //import 'day_1.dart';
 //import 'day_2.dart';
-import 'day_4.dart';
+//import 'day_4.dart';
+//import 'day_5.dart';
+import 'day_6.dart';
 
 void main() {
-  runApp(DayFourApp());
+  runApp(Day6App());
 }
 
 /*
