@@ -4,10 +4,12 @@ import 'package:flutter/material.dart';
 //import 'day_2.dart';
 //import 'day_4.dart';
 //import 'day_5.dart';
-import 'day_6.dart';
+//import 'day_6.dart';
+import 'day_7.dart';
+import 'reminding.dart';
 
 void main() {
-  runApp(Day6App());
+  runApp(Day7App());
 }
 
 /*
