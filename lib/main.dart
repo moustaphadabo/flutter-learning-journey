@@ -7,9 +7,15 @@ import 'package:flutter/material.dart';
 //import 'day_6.dart';
 import 'day_7.dart';
 import 'reminding.dart';
+import 'day_8.dart';
 
 void main() {
-  runApp(Day7App());
+  runApp(
+    const MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: HomeChallengeScreen(),
+    ),
+  );
 }
 
 /*
